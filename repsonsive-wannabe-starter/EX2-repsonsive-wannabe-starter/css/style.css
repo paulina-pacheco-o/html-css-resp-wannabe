@@ -153,12 +153,17 @@ img {
         flex-direction: column;
     }
 
+    .steps {
+        margin-bottom: 0px;
+    }
+
     .steps .col {
         width: 100%;
     }
 
     .why-us {
         background-color: #222222;
+        margin-bottom: 0px;
     }
 
     .why-us .col {
