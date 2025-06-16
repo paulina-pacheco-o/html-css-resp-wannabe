@@ -152,4 +152,8 @@ img {
     .row {
         flex-direction: column;
     }
+
+    .steps .col {
+        width: 100%;
+    }
 }
